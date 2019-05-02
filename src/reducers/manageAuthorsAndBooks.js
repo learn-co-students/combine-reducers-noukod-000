@@ -47,4 +47,8 @@ function authorsReducer(state = [], action) {
     default:
       return state;
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c1912202677d8060bdc6485363ce8953434e2d0f
